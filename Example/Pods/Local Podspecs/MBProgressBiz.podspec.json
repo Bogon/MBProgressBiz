@@ -1,0 +1,32 @@
+{
+  "name": "MBProgressBiz",
+  "version": "1.0.0",
+  "summary": "MBProgressBiz is a basic business library, which contains only some basic business code.",
+  "description": "MBProgressBiz is a basic business library, which contains only some basic business code.At the same time now is only the project, do not use, otherwise the consequences are at your own risk.",
+  "homepage": "https://github.com/Bogon/MBProgressBiz",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bogon": "zhangqixcu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Bogon/MBProgressBiz.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MBProgressBiz/Classes/**/*",
+  "dependencies": {
+    "IQKeyboardManagerSwift": [
+      "~> 6.5.12"
+    ],
+    "MBProgressHUD": [
+      "~> 1.2.0"
+    ]
+  },
+  "swift_version": "5.0"
+}
